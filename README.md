@@ -36,10 +36,12 @@ urlpatterns = [
     path('api/', include('myapp.urls')),  
 ]
 
+
 # myapp/urls.py
 urlpatterns = [
     path('submit-form/', submit_form, name='submit_form'),
 ]
+
 
 # myapp/model.py
 from django.db import models
@@ -55,6 +57,7 @@ class FormSubmission(models.Model):
     pi = models.CharField(max_length=100)
     researchField = models.CharField(max_length=100, null=True, blank=True)
     salesContact = models.CharField(max_length=100, null=True, blank=True)
+
 
 # myapp/view.py
 from django.http import JsonResponse
