@@ -1,4 +1,6 @@
 ```bash
+pipreqs --ignore .venv --force
+
 django-admin startproject myproject
 
 python manage.py startapp myapp
