@@ -1,3 +1,4 @@
+![image]([https://github.com/liyinred/Django_Wenhao/assets/83255231/146c8936-c69b-41be-a520-43179a70deab](https://github.com/liyinred/ccyy/blob/main/747303b9134946c480c5522573767e70.gif))
 ![image](https://github.com/liyinred/Django_Wenhao/assets/83255231/146c8936-c69b-41be-a520-43179a70deab)
 
 ```bash
