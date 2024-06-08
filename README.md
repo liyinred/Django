@@ -1,5 +1,6 @@
 ![image](https://github.com/liyinred/ccyy/blob/main/747303b9134946c480c5522573767e70.gif)
 ![image](https://github.com/liyinred/Django_Wenhao/assets/83255231/146c8936-c69b-41be-a520-43179a70deab)
+![image](https://github.com/liyinred/Django/assets/83255231/773b481b-5ede-4989-81a3-80aeff02dfd3)
 
 ```bash
 pipreqs --ignore .venv --force
