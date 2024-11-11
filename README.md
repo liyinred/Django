@@ -1,4 +1,5 @@
 ![image](https://github.com/liyinred/Django/assets/83255231/b19e69ce-a7f2-4a39-9fe1-2b6d33ec3380)
+![image](https://github.com/user-attachments/assets/108905de-14c9-4259-aa5b-62e544be2c85)
 ![image](https://github.com/liyinred/Django_Wenhao/assets/83255231/146c8936-c69b-41be-a520-43179a70deab)
 ![image](https://github.com/liyinred/Django/assets/83255231/773b481b-5ede-4989-81a3-80aeff02dfd3)
 
