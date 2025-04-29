@@ -10,7 +10,7 @@ django-admin startproject myproject
 
 python manage.py startapp myapp
 
-python manage.py makemigrations
+python manage.py makemigrations business
 
 python manage.py migrate business 
 
